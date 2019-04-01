@@ -1,0 +1,2 @@
+# chamodo
+primer repositorio 
